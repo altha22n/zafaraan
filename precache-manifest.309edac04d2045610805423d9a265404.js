@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "917048429d1cce2d21caaf71ecdd6c86",
+    "revision": "dcf10e76d0eb1f866da646550bef8440",
     "url": "/zafaraan/index.html"
   },
   {
-    "revision": "48ba8260819d2cfe9b88",
+    "revision": "95d0328b1894f2dfb5e8",
     "url": "/zafaraan/static/css/main.aa1ea87e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zafaraan/static/js/2.23fd2380.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48ba8260819d2cfe9b88",
-    "url": "/zafaraan/static/js/main.a8012fee.chunk.js"
+    "revision": "95d0328b1894f2dfb5e8",
+    "url": "/zafaraan/static/js/main.1d14d628.chunk.js"
   },
   {
     "revision": "fbbe6d9f8291c9aef88c",
