@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zafaraan/static/css/main.aa1ea87e.chunk.css",
+    "main.js": "/zafaraan/static/js/main.a8012fee.chunk.js",
+    "main.js.map": "/zafaraan/static/js/main.a8012fee.chunk.js.map",
+    "runtime-main.js": "/zafaraan/static/js/runtime-main.149fc837.js",
+    "runtime-main.js.map": "/zafaraan/static/js/runtime-main.149fc837.js.map",
+    "static/js/2.23fd2380.chunk.js": "/zafaraan/static/js/2.23fd2380.chunk.js",
+    "static/js/2.23fd2380.chunk.js.map": "/zafaraan/static/js/2.23fd2380.chunk.js.map",
+    "index.html": "/zafaraan/index.html",
+    "precache-manifest.450f2ce4eb4fb259cd8fcb3881f31313.js": "/zafaraan/precache-manifest.450f2ce4eb4fb259cd8fcb3881f31313.js",
+    "service-worker.js": "/zafaraan/service-worker.js",
+    "static/css/main.aa1ea87e.chunk.css.map": "/zafaraan/static/css/main.aa1ea87e.chunk.css.map",
+    "static/js/2.23fd2380.chunk.js.LICENSE.txt": "/zafaraan/static/js/2.23fd2380.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/zafaraan/static/media/background.a1d6e091.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.149fc837.js",
+    "static/js/2.23fd2380.chunk.js",
+    "static/css/main.aa1ea87e.chunk.css",
+    "static/js/main.a8012fee.chunk.js"
+  ]
+}
