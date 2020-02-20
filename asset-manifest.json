@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/zafaraan/static/css/main.aa1ea87e.chunk.css",
-    "main.js": "/zafaraan/static/js/main.1d14d628.chunk.js",
-    "main.js.map": "/zafaraan/static/js/main.1d14d628.chunk.js.map",
+    "main.css": "/zafaraan/static/css/main.4aaea16a.chunk.css",
+    "main.js": "/zafaraan/static/js/main.a8012fee.chunk.js",
+    "main.js.map": "/zafaraan/static/js/main.a8012fee.chunk.js.map",
     "runtime-main.js": "/zafaraan/static/js/runtime-main.149fc837.js",
     "runtime-main.js.map": "/zafaraan/static/js/runtime-main.149fc837.js.map",
     "static/js/2.23fd2380.chunk.js": "/zafaraan/static/js/2.23fd2380.chunk.js",
     "static/js/2.23fd2380.chunk.js.map": "/zafaraan/static/js/2.23fd2380.chunk.js.map",
     "index.html": "/zafaraan/index.html",
-    "precache-manifest.309edac04d2045610805423d9a265404.js": "/zafaraan/precache-manifest.309edac04d2045610805423d9a265404.js",
+    "precache-manifest.73b940fc3dd9f6c218736610b715ed0f.js": "/zafaraan/precache-manifest.73b940fc3dd9f6c218736610b715ed0f.js",
     "service-worker.js": "/zafaraan/service-worker.js",
-    "static/css/main.aa1ea87e.chunk.css.map": "/zafaraan/static/css/main.aa1ea87e.chunk.css.map",
+    "static/css/main.4aaea16a.chunk.css.map": "/zafaraan/static/css/main.4aaea16a.chunk.css.map",
     "static/js/2.23fd2380.chunk.js.LICENSE.txt": "/zafaraan/static/js/2.23fd2380.chunk.js.LICENSE.txt",
     "static/media/index.css": "/zafaraan/static/media/background.a1d6e091.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.149fc837.js",
     "static/js/2.23fd2380.chunk.js",
-    "static/css/main.aa1ea87e.chunk.css",
-    "static/js/main.1d14d628.chunk.js"
+    "static/css/main.4aaea16a.chunk.css",
+    "static/js/main.a8012fee.chunk.js"
   ]
 }
